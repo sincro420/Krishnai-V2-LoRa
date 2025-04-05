@@ -4,4 +4,6 @@ language:
 - en
 base_model:
 - unsloth/Phi-3-medium-4k-instruct
+tags:
+- unsloth
 ---
