@@ -8,4 +8,5 @@ tags:
 - unsloth
 - peft
 library_name: peft
+pipeline_tag: text2text-generation
 ---
