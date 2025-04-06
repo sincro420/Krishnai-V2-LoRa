@@ -6,5 +6,7 @@ base_model:
 - unsloth/Phi-3-medium-4k-instruct
 tags:
 - unsloth
-- adapters
+- adapter
+- peft
+library_name: peft
 ---
