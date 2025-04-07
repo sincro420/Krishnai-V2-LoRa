@@ -1,5 +1,5 @@
 ---
-license: cc-by-nc-nd-4.0
+license: cc-by-nc-sa-4.0
 language:
 - en
 base_model:
