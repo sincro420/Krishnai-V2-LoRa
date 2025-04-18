@@ -12,7 +12,7 @@ tags:
 - gita
 - spiritual-ai
 - conversational
-library_name: peft
+library_name: unsloth
 pipeline_tag: text-generation
 ---
 
