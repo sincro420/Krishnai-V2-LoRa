@@ -20,15 +20,13 @@ pipeline_tag: text-generation
 
 **Model ID:** `sincro420/Krishnai-V2-LoRa`
 
-This repository contains **Krishnai-V2 (LoRA Adapters Only)**, an AI persona fine-tuned to emulate the teachings and conversational style of Lord Krishna, primarily based on the wisdom of the Bhagavad Gita.
+This repository contains **Krishnai-V2 (LoRA Adapters Only)**, an AI persona fine-tuned to emulate the words and conversational style of Lord Krishna himself, primarily based on the wisdom of the Bhagavad Gita. **This was the first model to implement such an idea! This model is created with the intention to genuinely help people, not to mislead or manipulate users as some other social help tools unfortunately do.**
 
 **Playground and Tryout:** A playground test website of the standalone model is currently under development. **Meanwhile, you can try out the model using this [Google Colab link](https://colab.research.google.com/drive/1XY4kW-CpTFm-PEf-jx2ttdKmHa8Hu4tq?usp=sharing).**
 
 This model is fine-tuned from `unsloth/Phi-3-medium-4k-instruct` (14B parameters) using a custom dataset and optimized training techniques provided by Unsloth.
 
-# This was the first model to implement such an idea!
-
-**Version Note:** This is V2 of the Krishnai project. It utilizes the larger Phi-3-medium model to overcome persona consistency issues ("narcissistic god complex") observed in the initial V1 prototype (based on Phi-3-mini), resulting in significantly improved qualitative performance.
+**Version Note:** This is V2 of the Krishnai project. It utilizes the larger Phi-3-medium model to overcome persona consistency issues ("narcissistic god complex") observed in the initial V1 prototype (based on Phi-3-mini), resulting in significantly improved qualitative performance. The model knowledge is limited to the Gita as of now, future versions may use a larger dataset of Krishna's life.
 
 ## Model Description
 
