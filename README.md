@@ -22,7 +22,7 @@ pipeline_tag: text-generation
 
 This repository contains **Krishnai-V2 (LoRA Adapters Only)**, an AI persona fine-tuned to emulate the teachings and conversational style of Lord Krishna, primarily based on the wisdom of the Bhagavad Gita.
 
-**Playground and Tryout:** A playground test website of the standalone model is currently under development. Meanwhile, you can try out the model using this [Google Colab link](https://colab.research.google.com/drive/1XY4kW-CpTFm-PEf-jx2ttdKmHa8Hu4tq?usp=sharing).
+**Playground and Tryout:** A playground test website of the standalone model is currently under development. **Meanwhile, you can try out the model using this [Google Colab link](https://colab.research.google.com/drive/1XY4kW-CpTFm-PEf-jx2ttdKmHa8Hu4tq?usp=sharing).**
 
 This model is fine-tuned from `unsloth/Phi-3-medium-4k-instruct` (14B parameters) using a custom dataset and optimized training techniques provided by Unsloth.
 
