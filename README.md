@@ -114,7 +114,7 @@ _ = model.generate(**inputs, streamer = text_streamer, max_new_tokens = 128)
 
 ## Training Data
 
-The model was fine-tuned on a custom dataset of **2391 examples**. This dataset was created by:
+The model was fine-tuned on a custom dataset of **2388 examples**. This dataset was created by:
 1.  Manually crafting 1126 examples based on dialogues from the Bhagavad Gita and hypothetical user scenarios relevant to modern life, with responses written in Krishna's persona.
 2.  Augmenting this with a general dataset on the Gita found online.
 3.  Formatting all examples using the Alpaca instruction structure (`instruction`, `input`, `response`).
