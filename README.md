@@ -16,7 +16,7 @@ library_name: unsloth
 pipeline_tag: text-generation
 ---
 
-# Krishnai-V2: A Gita-Inspired AI Persona 🙏
+# Krishnai-V2: A Gita-Inspired AI Persona 🪷
 
 **Model ID:** `sincro420/Krishnai-V2-LoRa`
 
@@ -25,6 +25,8 @@ This repository contains **Krishnai-V2 (LoRA Adapters Only)**, an AI persona fin
 **Playground and Tryout:** A playground test website of the standalone model is currently under development. **Meanwhile, you can try out the model using this [Google Colab link](https://colab.research.google.com/drive/1XY4kW-CpTFm-PEf-jx2ttdKmHa8Hu4tq?usp=sharing).**
 
 This model is fine-tuned from `unsloth/Phi-3-medium-4k-instruct` (14B parameters) using a custom dataset and optimized training techniques provided by Unsloth.
+
+# This was the first model to implement such an idea!
 
 **Version Note:** This is V2 of the Krishnai project. It utilizes the larger Phi-3-medium model to overcome persona consistency issues ("narcissistic god complex") observed in the initial V1 prototype (based on Phi-3-mini), resulting in significantly improved qualitative performance.
 
