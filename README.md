@@ -39,7 +39,7 @@ This model is fine-tuned from `unsloth/Phi-3-medium-4k-instruct` (14B parameters
 
 This model follows the Alpaca instruction format. You **must** format your prompt accordingly for optimal results.
 
-**Important:** Ensure you have `unsloth`, `torch`, `transformers`, `trl`, `peft`, `accelerate`, and `bitsandbytes` installed. For faster inference and lower VRAM usage, using `unsloth` for loading is recommended.
+**Important:** Ensure you have required libraries installed properly. For faster inference and lower VRAM usage, I used `unsloth`.
 
 ```python
 # Installation For Google Colab:
