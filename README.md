@@ -141,3 +141,6 @@ Evaluation was primarily **qualitative**. Sample prompts covering various topics
 *   Absence of the "narcissistic god complex" observed in V1.
 
 Krishnai-V2 showed significant improvements across these qualitative dimensions compared to the pervious prototype.
+
+Contributers:
+*   Rishiet Raychowdhury
