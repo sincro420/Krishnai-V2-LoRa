@@ -145,7 +145,7 @@ Krishnai-V2 showed significant improvements across these qualitative dimensions 
 ## Contributers:
 *   Rishiet Raychowdhury
 *   Swayam Sharma
-*   Snigdh Sharma
+*   Snigdh Sharma 
 *   Zorba Nandi
 *   Anand Deep Kumar
 *   Yashashvi Thapliyal
